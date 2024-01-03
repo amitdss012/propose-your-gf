@@ -21,7 +21,7 @@ div:after {
   display: block;
   content: "";
   position: absolute;
-}
+  }
 
 div.beloved {
   width: 100vmin;
@@ -94,7 +94,7 @@ div.beloved:after {
   display: flex;
   position: absolute;
   white-space: pre;
-  content: "Thank you \a Love";
+  content: "Sorry cutie";
 
   text-align: center;
   line-height: 1.1;
