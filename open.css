@@ -3,7 +3,6 @@ body {
   position: relative;
   width: 100vw;
   height: 100vh;
-
   background-image: linear-gradient(0deg, #e87d7d 0%, #11a4ff 100%);
 }
 
@@ -52,7 +51,7 @@ body {
   justify-content: space-around;
   align-items: center;
   background-color: rgb(255, 255, 255);
-  padding: 5px;
+  padding: 30px;
   z-index: 5;
   left: 15px;
   right: 15px;
@@ -116,6 +115,7 @@ p {
 }
 
 #letter img {
+  width: 100px;
   height: 50%;
 }
 a {
